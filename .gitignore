@@ -84,3 +84,7 @@ dmypy.json
 
 # Local development configuration
 local_settings.py
+# Module 6 additions
+.env
+logs/
+*.log
